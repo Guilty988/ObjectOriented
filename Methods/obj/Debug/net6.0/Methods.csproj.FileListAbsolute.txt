@@ -1,0 +1,15 @@
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/bin/Debug/net6.0/Methods
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/bin/Debug/net6.0/Methods.dll
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.dll
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/dogukanzorer/Projects/Object Oriented Training/Methods/obj/Debug/net6.0/ref/Methods.dll
